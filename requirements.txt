@@ -1,0 +1,17 @@
+# Cloud Compliance Mapper Dependencies
+# Author: arkanzasfeziii
+# Version: 1.0.0
+
+# Console UI
+rich>=12.0.0
+
+# AWS SDK
+boto3>=1.26.0
+
+# Azure SDK
+azure-identity>=1.12.0
+azure-mgmt-storage>=20.0.0
+
+# GCP SDK (Optional/Recommended for future expansion)
+# google-cloud-storage>=2.0.0
+# google-cloud-resource-manager>=1.0.0
